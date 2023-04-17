@@ -90,7 +90,7 @@
             <input class="form-control" id="exampleFormControlInput1" name="code" value="{{ $post->code }}"placeholder="Digite o valor" required>
             <label for="exampleFormControlInput1" class="form-label" required></label>
             <input class="form-control" id="exampleFormControlInput1" name="value" value="{{ $post->value }}"  placeholder="Digite o valor" required>
-            <input class="form-control" id="exampleFormControlInput1" name="reference" value="{{ $post->reference }}" placeholder="Digite a referencia" required=
+            <input class="form-control" id="exampleFormControlInput1" name="reference" value="{{ $post->reference }}" placeholder="Digite a referencia" required>
             <input class="form-control" id="exampleFormControlInput1" name="description"   value="{{ $post->description }}" placeholder="Digite a Descrição" required>
             <label for="formFile" class="form-label"></label>
 
